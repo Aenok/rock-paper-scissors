@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    margin-bottom: 50px;
+}
+
+button {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
